@@ -4,5 +4,7 @@ import controller from './home.controller';
 let homeComponent = {
   template,
   controller,
-  controllerAS: 'vm'
+  controllerAs: 'vm'
 }
+
+export default homeComponent
