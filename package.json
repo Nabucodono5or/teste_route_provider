@@ -1,0 +1,19 @@
+{
+  "name": "teste_route_provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nabucodono5or/teste_route_provider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nabucodono5or/teste_route_provider/issues"
+  },
+  "homepage": "https://github.com/Nabucodono5or/teste_route_provider#readme"
+}
