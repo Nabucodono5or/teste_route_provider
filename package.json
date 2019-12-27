@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Nabucodono5or/teste_route_provider/issues"
   },
-  "homepage": "https://github.com/Nabucodono5or/teste_route_provider#readme"
+  "homepage": "https://github.com/Nabucodono5or/teste_route_provider#readme",
+  "devDependencies": {
+    "babel-plugin-transform-html-import-to-string": "0.0.1"
+  },
+  "dependencies": {
+    "angular": "^1.7.9"
+  }
 }
