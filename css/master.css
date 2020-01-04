@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: palegoldenrod;
+}
+
+.container {
+  padding: 1em;
+  margin-top: 2em;
+  margin-left: 1em;
+  width: 500px;
+  height: 300px;
+  font-weight: bold;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25),
+    -5px -5px 30px 7px rgba(0, 0, 0, 0.22);
+}
+
+.home-class {
+  background-color: aqua;
+}
+
+.about-class {
+  background-color: crimson;
+}
+
+.title {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.title-about {
+  color: cyan;
+}
+
+.title-home {
+  color: crimson;
+}
